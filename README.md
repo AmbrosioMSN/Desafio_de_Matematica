@@ -1,4 +1,4 @@
-# Desafio_de_Matematica
+# Desafio de Matematica
 
 ### Tecnologias
 <p>As seguintes ferramentas foram usadas na construção desse projeto.</p>
